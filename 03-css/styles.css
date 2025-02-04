@@ -1,0 +1,16 @@
+.container1,
+.container2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'san-serif';
+border: 2px solid rgb(94, 92, 92);
+}
+
+.container1 {color: white;
+    background-color: black;
+
+}
+
+.container2 {
+color: black;
+background-color: rgb(251, 255, 0);
+}
